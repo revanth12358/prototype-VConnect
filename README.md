@@ -122,15 +122,12 @@ We aim to transform messaging from reactive communication into supportive connec
 
 ## 👥 Team
 
-(Add your team members here)
+Revanth Redya Naik
+Ganesh
+Veda Karthik
+Sai Santhosh
+Abhinav
 
----
-
-## 📽 Demo
-
-(Add your demo video link here)
-
----
 
 ## 🔗 Live Prototype
 
